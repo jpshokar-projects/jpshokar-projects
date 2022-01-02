@@ -1,5 +1,5 @@
 # jpshokar-projects
 
-As apart of my learning journey. I've decided to create a github group to dump all my unprofessional work. 
+These projects are "less professional" in nature. They could be fun projects, or code snippets. 
 
-You can find some projects that I'm creating to learn.
+** NOTE: My professional projects are found on my profile page. **
